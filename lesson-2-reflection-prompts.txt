@@ -18,6 +18,8 @@ It helps you know the reachability of each commit and branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+To combine changes made in them separately 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+dunno
